@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>927964269504-jdsa0kf6dciab0t1eb8dbajkmkagisqr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927964269504-jdsa0kf6dciab0t1eb8dbajkmkagisqr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAEl0Kolg4Y55xIM6qK67ir0kUYe8nQ7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927964269504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.onyxswap</string>
+	<key>PROJECT_ID</key>
+	<string>onyswap-org</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onyswap-org.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927964269504:ios:e046aa9a7d3f832547d625</string>
+</dict>
+</plist>

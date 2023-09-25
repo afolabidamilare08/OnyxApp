@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "927964269504",
+    "project_id": "onyswap-org",
+    "storage_bucket": "onyswap-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927964269504:android:dd7ec0e582b2080e47d625",
+        "android_client_info": {
+          "package_name": "com.onyxswap.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927964269504-8c2nfc84vl0nkrndsg29c9ules1su10g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLL6_ndkoN8cf0xS5np__bcvCAaJtPlQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927964269504-8c2nfc84vl0nkrndsg29c9ules1su10g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927964269504-jdsa0kf6dciab0t1eb8dbajkmkagisqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onyxswap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
