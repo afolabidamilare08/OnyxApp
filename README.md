@@ -1,16 +1,9 @@
-# onyxswap
+Onyxswap - Centralized Cryptocurrency Exchange Platform Onyxswap is a centralized exchange platform designed to facilitate the buying and selling of cryptocurrencies. It also offers convenient features such as bill payments using cryptocurrencies and the issuance of virtual cards, providing a seamless experience for users in managing their digital assets.
 
-A new Flutter project.
+Features Token Trading: Effortlessly buy and sell a wide range of cryptocurrencies on our platform. Bill Payments: Pay bills using supported cryptocurrencies, making financial transactions more convenient. Virtual Cards: Access virtual cards for online transactions, adding an extra layer of security and flexibility.
 
-## Getting Started
+![a39d91c5-ba92-4dba-91e3-abe40388ec31](https://github.com/afolabidamilare08/OnyxApp/assets/66940336/63ff8d41-239d-4e14-9b24-38f1f60e35da)
 
-This project is a starting point for a Flutter application.
+![b91e81bc-7851-4c97-9e0b-7936dff0d103](https://github.com/afolabidamilare08/OnyxApp/assets/66940336/5571a4fc-e405-4105-8ce9-a4bff86b01b8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
